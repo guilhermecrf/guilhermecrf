@@ -5,5 +5,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================================
 
 <p align="center">
-👋 I'm a software engineering student with a burning passion for web programming.
+👋 I'm a software engineering student with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀
 </p>
